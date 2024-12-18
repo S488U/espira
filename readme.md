@@ -97,7 +97,6 @@ Execute the script:
 
 Output:
 ```
-Copy code
 Hello, x is 5 and y is 6.8
 The result of 3 + 4 = 3
 ```
