@@ -67,7 +67,7 @@ Follow these steps to get started:
 ### Build Process
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-repository-name>/espira.git
+   git clone https://github.com/S488U/espira.git
    cd espira
     ```
 2. Compile the interpreter:
