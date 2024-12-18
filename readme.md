@@ -177,7 +177,7 @@ If you have questions, issues, or feedback, please reach out:
 
 Email: shahabassabbu12@gmail.com
 
-GitHub Issues: https://github.com/espira/issues
+GitHub Issues: [https://github.com/espira/issues](https://github.com/S488U/espira/issues)
 
 
 ###  Build it. Test it. Evolve it. Espira is just the beginning of a new programming journey. Join the movement! 
