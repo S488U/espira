@@ -1,0 +1,11 @@
+let int x = 5
+let float y = 6.8
+echo Hello, x is {x} and y is {y}
+echo The result of 3 + 4 = {3 + 4}
+echo 1
+
+try {
+    let int result = 10 / 0
+} catch (error) {
+    echo "Division by zero encountered!"
+}
